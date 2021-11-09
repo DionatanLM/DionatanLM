@@ -1,8 +1,8 @@
-### ("Hello World")! Eu sou o Dionatan de Lima
+### ("Hello World")! I'm Dionatan de Lima
 ##
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Sou apaixonado por tecnologia
-- 🚀 Em constante evolução!
+- 🌱 Systems Analysis and Development Student
+- 💻 I'm passionate about technology
+- 🚀 Constantly evolving!
 ##
 <div align="center">
   <a href="https://github.com/DionatanLM">
