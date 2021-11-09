@@ -2,7 +2,7 @@
 ##
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Sou apaixonado por tecnologia
-- 🚀 Sempre em constante evolução!
+- 🚀 Em constante evolução!
 ##
 <div align="center">
   <a href="https://github.com/DionatanLM">
