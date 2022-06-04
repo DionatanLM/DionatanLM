@@ -1,6 +1,5 @@
 ### ("Hello World")! I'm Dionatan de Lima
 ##
-- 🌱 Systems Analysis and Development Student
 - 💻 I'm passionate about technology
 - 🚀 Constantly evolving!
 ##
