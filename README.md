@@ -1,8 +1,8 @@
 ##
 <img src="https://raw.githubusercontent.com/DionatanLM/DionatanLM/master/images/capaGit.png" width="100%">
-##
-- 💻 I'm passionate about technology
-- 🚀 Constantly evolving!
+
+##- 💻 I'm passionate about technology
+##- 🚀 Constantly evolving!
 ##
 <div align="center">
   <a href="https://github.com/DionatanLM">
