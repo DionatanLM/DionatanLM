@@ -1,4 +1,4 @@
-### ("Hello World")! I'm Dionatan de Lima
+<img src="https://raw.githubusercontent.com/DionatanLM/DionatanLM/master/images/capaGit.png" width="100%">
 ##
 - 💻 I'm passionate about technology
 - 🚀 Constantly evolving!
