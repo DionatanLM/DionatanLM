@@ -1,9 +1,9 @@
 ##
 <img src="https://raw.githubusercontent.com/DionatanLM/DionatanLM/master/images/capaGit.png" width="100%">
 
-##- 💻 I'm passionate about technology
-##- 🚀 Constantly evolving!
-##
+- 💻 I'm passionate about technology
+- 🚀 Constantly evolving!
+
 <div align="center">
   <a href="https://github.com/DionatanLM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DionatanLM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
