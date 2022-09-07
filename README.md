@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/DionatanLM">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DionatanLM&show_icons=true&include_all_commits=true&count_private=true&bg_color=0267d3&text_color=ffffff&icon_color=000000&title_color=000000&custom_title=Dionatan%20de%20Lima%20Moreira%20-%20GitHub%20Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanLM&layout=compact&langs_count=7&bg_color=0267d3&text_color=ffffff&&title_color=000000"/>
 </div>
   
