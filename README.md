@@ -5,6 +5,7 @@
 ⚙️ I'm experienced with TypeScript, JavaScript, NestJS. I also have knowledge of Docker, database (MySQL), Git, Figma, front-end development (React and Next.js) and mobile development (React Native) And more!.
 
 🔗 How to reach me?
+<br/>
   <a href = "mailto:dionatanlm12271@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0267d3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dionatanlm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0267d3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
