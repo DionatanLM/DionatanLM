@@ -6,6 +6,7 @@
 
 🔗 How to reach me?
 <br/>
+<br/>
   <a href = "mailto:dionatanlm12271@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0267d3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dionatanlm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0267d3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
